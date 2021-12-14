@@ -1,0 +1,1 @@
+welcome_text="Hello! This is an information Bot"
